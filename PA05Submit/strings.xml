@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PA05</string>
+    <string name="txtNiceCar">Nice car!</string>
+    <string name="imgCar">Car image</string>
+    <string name="txtRead">Read all about it!</string>
+    <string name="imgNewspaper">Newspapar image</string>
+    <string name="txtName">Dontez Wherry</string>
+    <string name="imgMyImage">My image</string>
+    <string name="txtCreatedBy">App created by Dontez Wherry</string>
+</resources>
